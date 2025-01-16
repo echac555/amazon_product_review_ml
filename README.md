@@ -9,7 +9,7 @@ We also Built a dashboard for better understanding of our data: (https://public.
 
 Dataset was used from a live API called RapidAPI.
 
-![image](https://github.com/Amer4r/amazon_product_reviews_ML/assets/149630812/07404cee-57f1-4a14-87f7-b0a25c2c7488)
+![image](https://github.com/echac555/amazon_product_review_ml/blob/main/Dashboard.png)
 
 ## Getting Started
 - Clone The repository using:  Amer4r/amazon_product_reviews_ML (github.com)
