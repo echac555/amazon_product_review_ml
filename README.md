@@ -5,7 +5,7 @@ The purpose of this analysis is to develop and implement a model on Amazon Produ
 Use the model to determine the viability of the product (positive, neutral, negative) and which products are likely to increase sales.
 
 Our Analysis also include analysing different factors such as Product Price, Product Star Rating, Number of Product Ratings, Sales Volume, Total Revenue.
-We also Built a dashboard for better understanding of our data: https://public.tableau.com/app/profile/charu.arora1569/viz/Book2AmazonDashboard-2/Dashboard1
+We also Built a dashboard for better understanding of our data: (https://public.tableau.com/app/profile/edward.chac/viz/AmazonDashboard_17370404369450/Dashboard1)
 
 Dataset was used from a live API called RapidAPI.
 
